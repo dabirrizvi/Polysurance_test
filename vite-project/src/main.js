@@ -1,8 +1,17 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+// Import Vue and the root component
+import { createApp } from 'vue';
+import App from './App.vue';
 
 // Importing Bootstrap
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap'
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap';
 
-createApp(App).mount('#app')
+// Create a Vue application instance
+const app = createApp(App);
+
+// Accordion Template global registration
+import AccordionItem from './templates/AccordionItem.vue';
+app.component('accordion-item', AccordionItem);
+
+// Mount the application to the DOM
+app.mount('#app');
