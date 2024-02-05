@@ -4,7 +4,7 @@
     <div class="row justify-content-center align-items-center min-vh-100">
       <div class="col-md-6 text-center">
         <a href="https://polysurance.com/" target="_blank">
-          <img class="polysurance_logo" src="../assets/Polysurance_logo.png" alt="Polysurance Logo" />
+          <img class="polysurance-logo" src="../assets/Polysurance_logo.png" alt="Polysurance Logo" />
         </a>
         <div class="mt-4">
           <h2>Welcome to my Polysurance Placement Test</h2>
@@ -21,7 +21,7 @@
     /* Background color for the container */
     background-color: #ffecd1;
   }
-  .polysurance_logo {
+  .polysurance-logo {
     max-width: 100%;
     height: auto;
   }
