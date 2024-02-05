@@ -1,0 +1,29 @@
+<template>
+  <div class="container-fluid background-bg">
+    <!-- Centered content -->
+    <div class="row justify-content-center align-items-center min-vh-100">
+      <div class="col-md-6 text-center">
+        <a href="https://polysurance.com/" target="_blank">
+          <img class="polysurance_logo" src="../assets/Polysurance_logo.png" alt="Polysurance Logo" />
+        </a>
+        <div class="mt-4">
+          <h2>Welcome to my Polysurance Placement Test</h2>
+          <p>Thank you for giving me the opportunity to showcase my skills and potential.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+  
+  <style scoped>
+  .background-bg{
+    /* Background color for the container */
+    background-color: #ffecd1;
+  }
+  .polysurance_logo {
+    max-width: 100%;
+    height: auto;
+  }
+  </style>
+  
