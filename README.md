@@ -17,6 +17,6 @@ Inside the project directory, follow the instructions in the README file to run 
 After completing these steps, you can view the project by opening your browser and navigating to http://localhost:{PORT_NUMBER}.
 
 ## Additional Information
-I have also deployed this project on Netlify, and you can visit the live website at: [Netlify Link](...) to explore the simple website addressing the order calculation tasks.
+I have also deployed this project on Netlify, and you can visit the live website at: [Netlify Link](https://polysurancetest.netlify.app) to explore the simple website addressing the order calculation tasks.
 
 Thank you for the opportunity, and if you have any questions or feedback, feel free to reach out.
