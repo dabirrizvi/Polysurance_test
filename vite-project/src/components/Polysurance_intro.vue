@@ -5,7 +5,7 @@
       <div class="col-md-6 text-center">
         <a href="https://polysurance.com/" target="_blank">
           <!-- aos zoom in animation on image -->
-          <img data-aos="zoom-in" data-aos-duration="1500" class="polysurance-logo" src="../assets/Polysurance_logo.png" alt="Polysurance Logo" />
+          <img data-aos="zoom-in" data-aos-duration="1200" class="polysurance-logo" src="../assets/Polysurance_logo.png" alt="Polysurance Logo" />
         </a>
         <!-- aos fade up animation on text -->
         <div class="mt-4" data-aos="fade-up" data-aos-duration="1500">
