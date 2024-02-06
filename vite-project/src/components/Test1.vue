@@ -2,7 +2,8 @@
   <div class="container-fluid background-test-1">
     <div class="row">
       <div class="text-center">
-        <div class="mt-4 data-intro">
+        <!-- animation zoom in -->
+        <div class="mt-4 data-intro" data-aos="zoom-in">
           <h2>Placement Test no.1</h2>
           <p>Displaying all the data in a better way</p>
         </div>
@@ -11,16 +12,21 @@
     <div class="row">
       <div class="col-xxl-6 col-md-12 mt-4 mb-4">
         <!-- Column for Product Details accordion component -->
-        <accordion-item :accordionId="'accordionProducts'" :accordionItems="productsAccordionItems" />
+        <!-- animation fade right -->
+        <accordion-item data-aos="fade-right" :accordionId="'accordionProducts'"
+          :accordionItems="productsAccordionItems" />
       </div>
       <div class="col-xxl-6 col-md-12 mt-4 mb-4">
         <!-- Column for Discount Details accordion component -->
-        <accordion-item :accordionId="'accordionDiscount'" :accordionItems="discountAccordionItems" />
+        <!-- animation fade left -->
+        <accordion-item data-aos="fade-left" :accordionId="'accordionDiscount'"
+          :accordionItems="discountAccordionItems" />
       </div>
     </div>
     <div class="row ">
-      <div class="col-12 mt-4 mb-4">
+      <div class="col-12 mt-4 mb-4" data-aos="fade-up">
         <!-- Column for Order Details accordion component -->
+        <!-- animation fade up -->
         <accordion-item :accordionId="'accordionOrder'" :accordionItems="orderAccordionItems" />
       </div>
 
