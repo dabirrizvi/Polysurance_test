@@ -6,6 +6,11 @@ import App from './App.vue';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap';
 
+// Importing Animation on Scroll
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+AOS.init();
+
 // Create a Vue application instance
 const app = createApp(App);
 
