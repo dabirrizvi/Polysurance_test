@@ -5,7 +5,7 @@
         <!-- animation zoom in -->
         <div class="mt-4 data-intro" data-aos="zoom-in">
           <h2>Placement Test no.1</h2>
-          <p>Displaying all the data in a better way</p>
+          <p>Displaying all the data</p>
         </div>
       </div>
     </div>
@@ -158,6 +158,7 @@ export default {
 <style scoped>
 .background-test-1 {
   background-color: #252323;
+  min-height: 100vh;
 }
 
 .container-fluid {
