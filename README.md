@@ -25,7 +25,7 @@ After completing these steps, you can view the project by opening your browser a
   - **`assets/`**: Stored images and JSON data here.
   - **`components/`**: Contains Vue components (Components specific of the application).
      - **`/Polysurance_intro`**: Contains basic intro screen.
-     - **`/Test1`**: Contains Test1 answers.
+     - **`/Answers`**: Contains calculations.
   - **`templates/`**: Reusable templates for components like accordion.
 
 
