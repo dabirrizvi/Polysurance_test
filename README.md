@@ -30,6 +30,6 @@ After completing these steps, you can view the project by opening your browser a
 
 
 ## Additional Information
-I have also deployed this project on Netlify, and you can visit the live website at: [Polysurance Test Link](https://polysurancetest.netlify.app) to explore the simple website addressing the order calculation tasks.
+I have also deployed this project on Netlify, and you can visit the live website at: [Polysurance Test Link](https://polysurancetest.netlify.app) (WEBSITE REMOVED) to explore the simple website addressing the order calculation tasks.
 
 Thank you for the opportunity, and if you have any questions or feedback, feel free to reach out.
