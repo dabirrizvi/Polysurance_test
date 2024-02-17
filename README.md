@@ -11,7 +11,7 @@ Thank you for providing me with the opportunity to complete this placement test,
 Inside the project directory, follow the instructions in the README file to run the development server. Typically, this involves running a command like:
    ```bash
    npm install
-   npm run serve
+   npm run dev
    ```
 
 After completing these steps, you can view the project by opening your browser and navigating to http://localhost:{PORT_NUMBER}.
